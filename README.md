@@ -9,6 +9,7 @@
 ![Failed](https://img.shields.io/badge/Failed-4-critical?style=flat-square)
 ![Defects](https://img.shields.io/badge/Defects%20Found-4%20Open-red?style=flat-square)
 ![Coverage](https://img.shields.io/badge/Requirement%20Coverage-100%25-blue?style=flat-square)
+![CI](https://github.com/swarup-padhy/saucedemo-automation/actions/workflows/test.yml/badge.svg)
 ![Status](https://img.shields.io/badge/Cycle%20Status-Complete-blueviolet?style=flat-square)
 
 ---
