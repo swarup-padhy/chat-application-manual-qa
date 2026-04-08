@@ -1,4 +1,4 @@
-# 🧪 Chat Application — Manual Testing Project
+# Chat Application — Manual Testing Project
 
 > A structured manual testing engagement covering core functional, security, API, and real-time requirements of a fullstack MERN chat application. **4 real defects discovered — including a Critical security vulnerability.**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🐛 Defects Discovered
+## Defects Discovered
 
 > These were found through manual exploratory and structured testing — not guesswork.
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧰 Testing Techniques Applied
+## Testing Techniques Applied
 
 | Technique | Where It Was Used |
 | :--- | :--- |
@@ -52,7 +52,7 @@
 
 ---
 
-## 🔍 Scope — What Was Tested
+## Scope — What Was Tested
 
 | Area | Coverage |
 | :--- | :--- |
@@ -85,7 +85,7 @@ must be rejected        must fail             email test                 created
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 chat-app-manual-testing/
